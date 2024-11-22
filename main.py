@@ -1262,4 +1262,4 @@ async def on_command_error(ctx, error):
 
     await channel.send(f"``{error_message}``")
         
-bot.run('YOUR_DISCORD_TOKEN') # Replace With Your Token
+bot.run('MTI4MDMyNTg4MDk4MzMyNjgwMQ.G5ZbNl.MoBz-bAxqRWsz3B8bapzURhNBxkx_-ypaPPp3Q') # Replace With Your Token
